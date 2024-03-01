@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormatifAppMobile_1</string>
+    <string name="drawer_open">Ouvrir</string>
+    <string name="drawer_close">Fermé</string>
+</resources>
